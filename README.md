@@ -57,7 +57,9 @@
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOURID
-- 📧 Email: yourmail@example.com
+- 💼 LinkedIn: [Harshathan Latha Umashankar](https://www.linkedin.com/in/harshathan-latha-umashankar-423314251/)
+- 📧 Email: [harshathansr@gmail.com](mailto:harshathansr@gmail.com)
+
+---
 
 ---
