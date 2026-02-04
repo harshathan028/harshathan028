@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 I'm Harshathan</h1>
+<h1 align="center">Hey there! 👋 I'm Harshathan</h1>
 <h3 align="center">Final Year CSE Student | AI • Embedded Systems • Game Development</h3>
 
 ---
