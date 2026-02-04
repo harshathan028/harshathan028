@@ -37,29 +37,24 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Harshathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshathan028&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔥 Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=harshathan028&theme=tokyonight)
 
----
-
-## 🏆 GitHub Trophies
-
-![trophies](https://github-profile-trophy.vercel.app/?username=harshathan028&theme=tokyonight)
 
 ---
 
-## 🌐 Connect With Me
 
-- 💼 LinkedIn: [Harshathan Latha Umashankar](https://www.linkedin.com/in/harshathan-latha-umashankar-423314251/)
-- 📧 Email: [harshathansr@gmail.com](mailto:harshathansr@gmail.com)
+## 🌐 Connect with me
 
----
+<p align="left">
+<a href="https://www.linkedin.com/in/harshathan-latha-umashankar-423314251/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="mailto:harshathansr@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+</p>
 
 ---
