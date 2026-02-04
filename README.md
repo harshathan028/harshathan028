@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Hola 👋 I'm Harshathan</h1>
+<h3 align="center">Final Year CSE Student | AI • Embedded Systems • Game Development</h3>
 
-<!--
-**harshathan028/harshathan028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Final Year B.Tech CSE — SRM University
+- 💼 ML Engineer @ MXFLO
+- 🤖 Developing AI Rover using DQN + LIDAR
+- 👓 Built Smart Glasses for Visually Impaired Navigation
+- 🧠 Strong interest in AI, Robotics & Embedded Systems
+- 🎮 Create interactive browser & AI-based games
+- ⚙️ Focus: Smart Systems + Intelligent Automation
+
+---
+
+## 🧠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+
+---
+
+## 📌 Current Projects
+
+- 🚗 DQN-based Autonomous Rover with LIDAR
+- 👓 Smart Glasses for Visually Impaired
+- 🏷 FastTag Smart Recharge & Auto-Pay System
+- 🤖 AI ChatBot Pro – Intelligent Query & Support Bot
+- 🎮 AI + Mini Interactive Games
+- 📊 AI Learning & Data Systems
+
+---
+
+## 📊 GitHub Stats
+
+![Harshathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshathan028&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=harshathan028&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+![trophies](https://github-profile-trophy.vercel.app/?username=harshathan028&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/YOURID
+- 📧 Email: yourmail@example.com
+
+---
