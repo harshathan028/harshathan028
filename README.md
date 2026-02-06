@@ -4,19 +4,19 @@
 ---
 
 
-## 🚀 About Me
+## About Me
 
-- 🎓 Final Year B.Tech CSE — SRM University
-- 💼 ML Engineer @ MXFLO
-- 🤖 Developing AI Rover using DQN + LIDAR
-- 👓 Built Smart Glasses for Visually Impaired Navigation
-- 🧠 Strong interest in AI, Robotics & Embedded Systems
-- 🎮 Create interactive browser & AI-based games
-- ⚙️ Focus: Smart Systems + Intelligent Automation
+- Final Year B.Tech CSE — SRM University
+- ML Engineer @ MXFLO
+- Developing AI Rover using DQN + LIDAR
+- Built Smart Glasses for Visually Impaired Navigation
+- Strong interest in AI, Robotics & Embedded Systems
+- Create interactive browser & AI-based games
+- Focus: Smart Systems + Intelligent Automation
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
@@ -26,18 +26,17 @@
 
 ---
 
-## 📌 Current Projects
+## Current Projects
 
-- 🚗 DQN-based Autonomous Rover with LIDAR
-- 👓 Smart Glasses for Visually Impaired
-- 🏷 FastTag Smart Recharge & Auto-Pay System
-- 🤖 AI ChatBot Pro – Intelligent Query & Support Bot
-- 🎮 AI + Mini Interactive Games
-- 📊 AI Learning & Data Systems
+- DQN-based Autonomous Rover with LIDAR
+- Smart Glasses for Visually Impaired
+- FastTag Smart Recharge & Auto-Pay System
+- AI ChatBot Pro – Intelligent Query & Support Bot
+- AI + Mini Interactive Games
 
 ---
 
-## 🔥 Streak Stats
+## Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=harshathan028&theme=tokyonight)
 
@@ -45,7 +44,7 @@
 ---
 
 
-## 🌐 Connect with me
+## Connect with me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/harshathan-latha-umashankar-423314251/" target="_blank">
