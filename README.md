@@ -7,10 +7,8 @@
 ## About Me
 
 - Final Year B.Tech CSE — SRM University
+- DataBase Engineer @ GM Promoters
 - ML Engineer @ MXFLO
-- Developing AI Rover using DQN + LIDAR
-- Built Smart Glasses for Visually Impaired Navigation
-- Strong interest in AI, Robotics & Embedded Systems
 - Create interactive browser & AI-based games
 - Focus: Smart Systems + Intelligent Automation
 
@@ -28,11 +26,12 @@
 
 ## Current Projects
 
+- Attic - Multi Agent AI Content Writer
 - DQN-based Autonomous Rover with LIDAR
+- GM Promoters Database Management System
 - Smart Glasses for Visually Impaired
 - FastTag Smart Recharge & Auto-Pay System
 - AI ChatBot Pro – Intelligent Query & Support Bot
-- AI + Mini Interactive Games
 
 ---
 
