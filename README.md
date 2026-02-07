@@ -4,7 +4,7 @@
 ---
 
 
-## About Me
+About Me
 
 - Final Year B.Tech CSE — SRM University
 - ML Engineer @ MXFLO
