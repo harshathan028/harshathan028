@@ -1,58 +1,52 @@
 <h1 align="center">Hey there! 👋 I'm Harshathan</h1>
-<h3 align="center">Final Year CSE Student | AI • Embedded Systems • Game Development</h3>
 
----
+###
 
+<h4 align="center">Final Year CSE Student | AI • Embedded Systems • Game Development</h4>
 
-## About Me
+###
 
-- Final Year B.Tech CSE — SRM University
-- DataBase Engineer @ GM Promoters
-- ML Engineer @ MXFLO
-- Create interactive browser & AI-based games
-- Focus: Smart Systems + Intelligent Automation
+<img align="right" height="160" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"  />
 
----
+###
 
-## Tech Stack
+<p align="left">About Me<br><br>• Final Year B.Tech CSE — SRM University<br>• DataBase Engineer @ GM Promoters<br>• ML Engineer @ MXFLO<br>• Create interactive browser & AI-based games<br>• Focus: Smart Systems + Intelligent Automation</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+###
 
----
+<div align="left">
+  <a href="https://harshathansr@gmail.com/harshathan028" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
+</div>
 
-## Current Projects
+###
 
-- Attic - Multi Agent AI Content Writer
-- DQN-based Autonomous Rover with LIDAR
-- GM Promoters Database Management System
-- Smart Glasses for Visually Impaired
-- FastTag Smart Recharge & Auto-Pay System
-- AI ChatBot Pro – Intelligent Query & Support Bot
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+</div>
 
----
+###
 
-## Streak Stats
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=harshathan028&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=harshathan028&theme=tokyonight)
+###
 
+<img src="https://raw.githubusercontent.com/harshathan028/harshathan028/output/snake.svg" alt="Snake animation" />
 
----
-
-
-## Connect with me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/harshathan-latha-umashankar-423314251/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
-<a href="mailto:harshathansr@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-</p>
-
----
+###
